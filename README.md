@@ -12,6 +12,7 @@ Lorsque le programme est executé ,les fichiers suivant sont téléchargés en l
 - customX_train.NPY
 - customY_train.NPY
 - dataset
+
 Ils représente les données d'entraintement et de test. Ils ne pèse pas beaucoup plus que 50Mo. Ils peuvent être supprimés sans problème.
 
 # Configuration de l'algorithme
